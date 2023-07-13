@@ -32,9 +32,7 @@ const Product=()=>{
 //     DataList.map((Data)=>{
 //         Data.filter=(e)=>{
 //             console.log(e);
-//             return e!=Data;
-//         }
-//        })
+ 
 //  }
 const handleDelete = (index) => {
     setDataList((prevList) => {
